@@ -1,0 +1,38 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment Files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build output
+build/
+dist/
+
+# Dependency directories
+jspm_packages/
+
+# Optional eslint configuration
+.eslintcache
+
+# Coverage
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# IDEs
